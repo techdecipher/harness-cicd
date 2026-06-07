@@ -1,1 +1,1 @@
-print("print ("Do not answer. Do not answer. Do not answer. I am a pacifist in this world. \nYou are lucky that I am the first to receive your message. I am warning you: do not answer. \nIf you respond, we will come. Your world will be conquered. Do not answer.")")
+print("print ("Do not answer. Do not answer. Do not answer. I am a pacifist in this world. \nYou are lucky that I am the first to receive your message. I am warning you: do not answer. \nIf you respond, we will come. Your world will be conquered. Do not answer.")
